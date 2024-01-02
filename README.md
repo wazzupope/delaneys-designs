@@ -1,6 +1,6 @@
-Delaney's Designs
+# Delaney's Designs
 
-Intended to be a landing page site with little to no javascript initially, with the potential to grow into a site with more pages and interaction. Potential to become an online shop at some point.
+Intended to be a static landing page site initially, with the potential to become an interactive site with more pages. Potential to grow into an online shop at some point.
 
 # React + Vite
 
