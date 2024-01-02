@@ -6,7 +6,7 @@ function Header() {
     <>
       <header>
         <h1>Delaney's Designs</h1>
-        <span>Contact: (555) 555-5555</span>
+        <span>Text: (555) 555-5555</span>
       </header>
     </>
   )
