@@ -1,8 +1,14 @@
+Delaney's Designs
+
+Intended to be a landing page site with little to no javascript initially, with the potential to grow into a site with more pages and interaction. Potential to become an online shop at some point.
+
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Docs - https://vitejs.dev/guide/
+npm create vite@latest delaneys-designs --template react
+npm install
+npm run dev
 
-Currently, two official plugins are available:
+# NodeJS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Version 18.18.1
