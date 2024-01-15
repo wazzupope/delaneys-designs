@@ -13,3 +13,6 @@ npm run dev
 
 Docs - https://nodejs.org/docs/latest-v18.x/api/index.html
 Version 18.18.1
+
+# TODO
+delete app.css?
