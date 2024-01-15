@@ -6,10 +6,8 @@ function App() {
 
   return (
     <>
-      <main id='body'>
-        <Header />
-        <HomeBody />
-      </main>
+      <Header />
+      <HomeBody />
     </>
   )
 }
