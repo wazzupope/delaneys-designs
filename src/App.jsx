@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <main>
+      <main id='body'>
         <Header />
         <HomeBody />
       </main>
