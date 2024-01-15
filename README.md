@@ -11,4 +11,5 @@ npm run dev
 
 # NodeJS
 
+Docs - https://nodejs.org/docs/latest-v18.x/api/index.html
 Version 18.18.1
