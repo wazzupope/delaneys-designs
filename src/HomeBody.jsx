@@ -4,7 +4,7 @@ import Card from './Card.jsx'
 function HomeBody() {
 
   return (
-    <>
+    <main id='body'>
       <section id='hero'>
         <h2>Custom beaded bracelets and keychains</h2>
         <span>Text for more information</span>
@@ -12,7 +12,7 @@ function HomeBody() {
       <section id='products'>
         <Card />
       </section>
-    </>
+    </main>
   )
 }
 
